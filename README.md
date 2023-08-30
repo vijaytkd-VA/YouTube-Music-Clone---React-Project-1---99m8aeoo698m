@@ -2,7 +2,7 @@
 YouTube Music is a modern audio streaming application built using React.js, Redux Toolkit for state management, and Tailwind CSS for styling. The application provides a seamless experience for users to listen to their favorite music, with features such as SearchBar, Sidebar, Live Songs Fetch, User Authentication, and a Subscription Page.
 
 ### `Key Features`
-* Lightning-Fast Loading: Jio Savnn is optimized for speed, ensuring that users can start enjoying their music within 500ms of opening the application.
+* Lightning-Fast Loading: YouTube Music is optimized for speed, ensuring that users can start enjoying their music within 500ms of opening the application.
 
 * SearchBar: Easily search for your favorite songs, artists, or albums with the intuitive SearchBar feature.
 
