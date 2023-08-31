@@ -34,4 +34,4 @@ Contributions are welcome! If you find any issues or have ideas for improvement,
 ### `Contact`
 For any inquiries or questions, please contact your-mohitevijaysinh8379@gmail.com
 
-Feel free to enhance this README template with additional sections such as installation steps, deployment instructions, screenshots, and more. Make sure to tailor the information to accurately reflect your application and its features.
+Feel free to enhance this README template with additional sections such as installation steps, deployment instructions, screenshots, and more. Make sure to tailor the information to accurately reflect your application and its features
