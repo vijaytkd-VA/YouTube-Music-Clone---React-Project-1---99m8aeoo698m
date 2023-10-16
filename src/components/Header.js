@@ -59,12 +59,10 @@ let Header = () => {
 
       <div className="flex items-center space-x-2">
         
-        <a href="/">
-          {" "}
-          <div className="pr-2 font-semibold  hover:underline ">
+      <a href="/">
+            {" "}
             <div className="pr-2 font-semibold  hover:underline "><span className="font-bold" >{userName}: </span>Log out</div>
-          </div>
-        </a>
+          </a>
       </div>
     </div>
   );
