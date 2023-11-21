@@ -32,6 +32,6 @@ YouTube Music is a modern audio streaming application built using React.js, Redu
 Contributions are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's coding standards.
 
 ### `Contact`
-For any inquiries or questions, please contact your-mohitevijaysinh8379@gmail.com
+For any inquiries or questions, please contact - mohitevijaysinh8379@gmail.com
 
 Feel free to enhance this README template with additional sections such as installation steps, deployment instructions, screenshots, and more. Make sure to tailor the information to accurately reflect your application and its features
